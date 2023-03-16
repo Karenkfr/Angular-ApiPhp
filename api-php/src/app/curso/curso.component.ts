@@ -13,6 +13,8 @@ export class CursoComponent implements OnInit {
 
 //toda vez que for selecionar os cursos, tem que armazenar em algum lugar, e será aqui nessa variavel//
   
+  //onde está a URL de acesso ao banco?
+  
 vetor:Curso[];    //guardará todos os cursos da requisicao da selecao//
 
 
